@@ -5,7 +5,7 @@ This project demonstrates the use of multiple AI APIs:
 - Groq
 - Hugging Face
 - Cohere
-- Ollama (optional)
+- Ollama
 
 ## Files
 - groq_example.py
